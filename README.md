@@ -1,5 +1,5 @@
 ## CodeMaster Yazılım Konulu Bilgi Yarışması Programı
-Proje açıldığında solda skor tablosu, sağda ise kullanıcı adı girişi ve başlat düğmesi yer alır.
+Proje'nin yalnızca kaynak kodu verilmiştir. Program açıldığında solda skor tablosu, sağda ise kullanıcı adı girişi ve başlat düğmesi yer alır.
 Başlat düğmesine basıldığında veritabanından rastgele sorular çekilir ve kullanıcı ekranına yansıtılır.
 Kullanıcı soruyu doğru bilirse skoru artar ve sıradaki veritabanından rastgele seçilen soruyu ekrana getirir.
 Oyun veritabanındaki sorular biterse, kullanıcı soruyu yanlış cevaplarsa veya cevap süresi dolarsa oyun biter.
